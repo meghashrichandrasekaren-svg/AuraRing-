@@ -1,0 +1,6 @@
+{
+  "name": "AURA Ring AI",
+  "description": "Smart wearable college platform for verified attendance, emergency SOS, faculty monitoring, and campus safety by Auvexza Private Limited.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
